@@ -1,4 +1,4 @@
-# align_vsum Release
+# HAVEN
 
 This repository provides the release metadata and usage documentation for the benchmark datasets used in the paper release. Due to file size limits, the canonical data files are distributed through Google Drive rather than stored directly in GitHub.
 
